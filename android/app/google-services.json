@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017511838698",
+    "project_id": "portal-bontang-id",
+    "storage_bucket": "portal-bontang-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017511838698:android:c236ca25d820edbb70e893",
+        "android_client_info": {
+          "package_name": "com.technowstack.portal_bontang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017511838698-do5u1q6qc98j8gietvmeu9d001c4qtor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPVL2_EQGDnmm9-ccZP-PoT_brpL4IiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017511838698-do5u1q6qc98j8gietvmeu9d001c4qtor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

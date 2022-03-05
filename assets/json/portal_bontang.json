@@ -1,0 +1,388 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "assets/icon/BONTANG-HARI-INI.png",
+        "title": "BONTANG HARI INI",
+        "url": "http://berita.bontangkota.go.id/",
+        "urlList" : [
+
+        ]
+    },
+    {
+        "id": 2,
+        "imgUrl": "assets/icon/BONTANG-DALAM-ANGKA.png",
+        "title": "BONTANG DALAM ANGKA",
+        "url": "https://simpatiku.bontangkota.go.id/",
+        "urlList" : [
+
+        ]
+    },
+    {
+        "id": 3,
+        "imgUrl": "assets/icon/DATA-COVID-19.png",
+        "title": "DATA COVID-19",
+        "url": "http://gugus-covid.bontangkota.go.id/?page_id=556",
+        "urlList" : [
+
+        ]
+    },
+    {
+        "id": 4,
+        "imgUrl": "assets/icon/SMART-CITY.png",
+        "title": "SMART CITY",
+        "url" : "",
+        "urlList": [
+            {
+                "id": 1,
+                "name": "Roadmap TIK",
+                "url": "https://www.bontangkota.go.id/img/RoadmapTIK.jpeg"
+            },
+            {
+                "id": 2,
+                "name": "Roadmap Enterprise Architecture",
+                "url": "https://www.bontangkota.go.id/img/RoadmapEA.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "imgUrl": "assets/icon/LAYANAN-PUBLIK.png",
+        "title": "LAYANAN PUBLIK",
+        "url" : "",
+        "urlList": [
+            {
+                "id": 1,
+                "name": "Pengaduan Masyarakat",
+                "url": "http://kesah.bontangkota.go.id/"
+            },
+            {
+                "id": 2,
+                "name": "Produk Hukum",
+                "url": "http://jdih.bontangkota.go.id/?page=produk"
+            },
+            {
+                "id": 3,
+                "name": "Info Lelang",
+                "url": "http://lpse.bontangkota.go.id/"
+            },
+            {
+                "id": 4,
+                "name": "Harga Barang Pokok",
+                "url": "http://simbak.bontangkota.go.id/"
+            },
+            {
+                "id": 5,
+                "name": "Perijinan Digital",
+                "url": "https://siperietnik.bontangkota.go.id/homepage/"
+            },
+            {
+                "id": 6,
+                "name": "Transparasi Keuangan",
+                "url": "http://e-arsip.bontangkota.go.id/dashboard/berkala"
+            },
+            {
+                "id": 7,
+                "name": "Bontang Terkini",
+                "url": "http://ppid.bontangkota.go.id/"
+            },
+            {
+                "id": 8,
+                "name": "Beasiswa Kota Bontang",
+                "url": "http://e-beasiswa.bontangkota.go.id/"
+            },
+            {
+                "id": 9,
+                "name": "Geospasial Kota Bontang",
+                "url": "http://petakita.bontangkota.go.id/"
+            },
+            {
+                "id": 10,
+                "name": "Informasi Lalu Lintas",
+                "url": "http://sillaj.bontangkota.go.id/"
+            },
+            {
+                "id": 11,
+                "name": "Sistem Informasi Pemakaman",
+                "url": "http://pemakaman.bontangkota.go.id"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "imgUrl": "assets/icon/PERIZINAN-DIGITAL.png",
+        "title": "PERIZINAN DIGITAL",
+        "url": "https://pd.bontangkota.go.id/homepage/",
+        "urlList" : [
+
+        ]
+    },
+    {
+        "id": 7,
+        "imgUrl": "assets/icon/LAYANAN-ADMINISTRASI.png",
+        "title": "LAYANAN ADMINISTRASI",
+        "url" : "",
+        "urlList": [
+            {
+                "id": 1,
+                "name": "Naskah Dinas",
+                "url": "http://naskahdinas.bontangkota.go.id/"
+            },
+            {
+                "id": 2,
+                "name": "Manajemen Kepegawaian",
+                "url": "http://simpeg.bontangkota.go.id"
+            },
+            {
+                "id": 3,
+                "name": "Manajemen Keuangan",
+                "url": "http://efinance.dppkabontang.web.id/eplanning_2020/login"
+            },
+            {
+                "id": 4,
+                "name": "Keuangan Daerah",
+                "url": "http://efinance.bontangkota.go.id/"
+            },
+            {
+                "id": 5,
+                "name": "Manajemen Kinerja",
+                "url": "http://e-skp.bontangkota.go.id/skp2020/"
+            },
+            {
+                "id": 6,
+                "name": "Simwas Kota Bontang",
+                "url": "http://simwas.bontangkota.go.id/"
+            },
+            {
+                "id": 7,
+                "name": "Insipirasisida",
+                "url": "http://inspirasisida.bontangkota.go.id/"
+            },
+            {
+                "id": 8,
+                "name": "Email Kota Bontang",
+                "url": "https://mail.bontangkota.go.id/"
+            },
+            {
+                "id": 9,
+                "name": "OwnCloud Kota Bontang",
+                "url": "https://cloud.bontangkota.go.id/"
+            },
+            {
+                "id": 10,
+                "name": "Laporan Kerja Instansi",
+                "url": "https://e-sakip.bontangkota.go.id/portal/home"
+            },
+            {
+                "id": 11,
+                "name": "Sinnerji",
+                "url": "https://e-sakip.bontangkota.go.id/portal/home"
+            },
+            {
+                "id": 12,
+                "name": "Tata Naskah Elektronik",
+                "url": "http://e-takah.bontangkota.go.id/"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "imgUrl": "assets/icon/TRANSPARANSI-KEUANGAN.png",
+        "title": "TRANSPARASI KEUANGAN",
+        "url": "http://e-arsip.bontangkota.go.id/",
+        "urlList" : [
+
+        ]
+    },
+    {
+        "id": 9,
+        "imgUrl": "assets/icon/HARGA-BARANG-POKOK.png",
+        "title": "HARGA BARANG POKOK",
+        "url": "http://simbak.bontangkota.go.id/",
+        "urlList" : [
+
+        ]
+    },
+    {
+        "id": 10,
+        "imgUrl": "assets/icon/SUB-DOMAIN.png",
+        "title": "SUB DOMAIN",
+        "url" : "",
+        "urlList": [
+            
+                {
+                    "id": 1,
+                    "name": "Dinas Komunikasi dan Informatika",
+                    "url": "http://diskominfo.bontangkota.go.id"
+                },
+                {
+                    "id": 2,
+                    "name": "Dinas Perhubungan",
+                    "url": "http://dishub.bontangkota.go.id"
+                },
+                {
+                    "id": 3,
+                    "name": "Dinas Lingkungan Hidup",
+                    "url": "http://dlh.bontangkota.go.id"
+                },
+                {
+                    "id": 4,
+                    "name": "Dinas Ketahanan Pangan, Perikanan dan Pertanian",
+                    "url": "http://dkp3.bontangkota.go.id"
+                },
+                {
+                    "id": 5,
+                    "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+                    "url": "http://bkpp.bontangkota.go.id"
+                },
+                {
+                    "id": 6,
+                    "name": "Dinas Penanaman Modal dan PTSP",
+                    "url": "http://dpmptsp.bontangkota.go.id/web"
+                },
+                {
+                    "id": 7,
+                    "name": "Sistem Informasi Pemakaman",
+                    "url": "http://pemakaman.bontangkota.go.id"
+                },
+                {
+                    "id": 8,
+                    "name": "Unit Kantor Pengadaan Barang Jasa",
+                    "url": "http://ukpbj.bontangkota.go.id/"
+                },
+                {
+                    "id": 9,
+                    "name": "Dinas Perumahan, Kawasan Permukiman, dan Pertanahan",
+                    "url": "http://disperkimtan.bontangkota.go.id/"
+                },
+                {
+                    "id": 10,
+                    "name": "Badan Perencaan, Penelitian, dan Pengembangan",
+                    "url": "http://bapelitbang.bontangkota.go.id"
+                },
+                {
+                    "id": 11,
+                    "name": "Rumah Sakit Taman Husada",
+                    "url": "http://rsud.bontangkota.go.id"
+                },
+                {
+                    "id": 12,
+                    "name": "Badan Kesatuan Bangsa dan Politik",
+                    "url": "http://kesbangpol.bontangkota.go.id"
+                },{
+                    "id": 13,
+                    "name": "Dinas Koperasi, Usaha Kecil, Menengah, dan Perdagangan",
+                    "url": "http://umkm.bontangkota.go.id/"
+                },
+                {
+                    "id": 14,
+                    "name": "Inspektorat Daerah",
+                    "url": "http://inspektorat.bontangkota.go.id/"
+                },
+                {
+                    "id": 15,
+                    "name": "Dinas Sosial dan Pemberdayaan Masyarakat",
+                    "url": "http://pemakaman.bontangkota.go.id"
+                },
+                {
+                    "id": 16,
+                    "name": "Dinas Pendidikan",
+                    "url": "http://disdik.bontangkota.go.id/"
+                },
+                {
+                    "id": 17,
+                    "name": "Dinas Perpustakaan dan Kearsipan",
+                    "url": "http://dpk.bontangkota.go.id/"
+                },
+                {
+                    "id": 18,
+                    "name": "Dinas Pemadam Kebakaran dan Penyelamatan",
+                    "url": "http://damkar.bontangkota.go.id/"
+                },
+                {
+                    "id": 1,
+                    "name": "Kecamatan Bontang Selatan",
+                    "url": "http://kec-bontangselatan.bontangkota.go.id/"
+                },
+                {
+                    "id": 2,
+                    "name": "Kecamatan Bontang Utara",
+                    "url": "http://kec-bontangutara.bontangkota.go.id/"
+                },
+                {
+                    "id": 3,
+                    "name": "Kecamatan Bontang Barat",
+                    "url": "http://kec-bontangbarat.bontangkota.go.id/"
+                },
+                {
+                    "id": 4,
+                    "name": "Kelurahan Bontang Baru",
+                    "url": "http://kel-bontangbaru.bontangkota.go.id/"
+                },
+                {
+                    "id": 5,
+                    "name": "Kelurahan Api - Api",
+                    "url": "http://kel-apiapi.bontangkota.go.id/"
+                },
+                {
+                    "id": 6,
+                    "name": "Kelurahan Gunung Elai",
+                    "url": "http://kel-gunungelai.bontangkota.go.id/"
+                },
+                {
+                    "id": 7,
+                    "name": "Kelurahan Satimpo",
+                    "url": "http://kel-satimpo.bontangkota.go.id/"
+                },
+                {
+                    "id": 8,
+                    "name": "Kelurahan Bontang Kuala",
+                    "url": "http://kel-bontangkuala.bontangkota.go.id/"
+                },
+                {
+                    "id": 9,
+                    "name": "Kelurahan Belimbing",
+                    "url": "http://kel-belimbing.bontangkota.go.id/"
+                },
+                {
+                    "id": 10,
+                    "name": "Kelurahan Bontang Lestari",
+                    "url": "http://diskominfo.bontangkota.go.id"
+                },
+                {
+                    "id": 11,
+                    "name": "Kelurahan Guntung",
+                    "url": "http://kel-guntung.bontangkota.go.id/"
+                },
+                {
+                    "id": 12,
+                    "name": "Kelurahan Loktuan",
+                    "url": "http://kel-loktuan.bontangkota.go.id/"
+                },
+                {
+                    "id": 13,
+                    "name": "Kelurahan Kanaan",
+                    "url": "http://kel-kanaan.bontangkota.go.id/"
+                },
+                {
+                    "id": 14,
+                    "name": "Kelurahan Berbas Tengah",
+                    "url": "http://kel-berbastengah.bontangkota.go.id/"
+                },
+                {
+                    "id": 15,
+                    "name": "Kelurahan Berbas Pantai",
+                    "url": "http://kel-berbaspantai.bontangkota.go.id/"
+                },
+                {
+                    "id": 16,
+                    "name": "Kelurahan Tanjung Laut",
+                    "url": "http://kel-tjlaut.bontangkota.go.id/"
+                },
+                {
+                    "id": 17,
+                    "name": "Kelurahan Tanjung Laut Indah",
+                    "url": "http://kel-tjlautindah.bontangkota.go.id/"
+                }    
+            ]
+    }
+]
