@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           scaffoldBackgroundColor: kBackgroundColor,
         ),
         builder: (context, widget) => ResponsiveWrapper.builder(
-            BouncingScrollWrapper.builder(context, widget),
+            BouncingScrollWrapper.builder(context, widget!),
             maxWidth: 1200,
             minWidth: 480,
             defaultScale: true,

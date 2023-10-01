@@ -16,7 +16,7 @@ class WebViewPage extends StatefulWidget {
 }
 
 class _WebViewPageState extends State<WebViewPage> {
-  WebViewController _controller;
+  late WebViewController _controller;
   final Completer<WebViewController> _controlerCompleter =
       Completer<WebViewController>();
   @override
@@ -57,7 +57,7 @@ class _WebViewPageState extends State<WebViewPage> {
                   children: [
                     FloatingActionButton(
                       onPressed: () async {
-                        controller.data.reload();
+                        controller.data?.reload();
                       },
                       backgroundColor: Color(0xff002e66),
                       child: const Icon(

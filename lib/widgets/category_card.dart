@@ -5,10 +5,10 @@ import 'package:portal_bontang/theme.dart';
 // ignore: must_be_immutable
 class CategoryCard extends StatelessWidget {
   //const categorycard({ Key? key }) : su//per(key: key);
-  Function press;
+  VoidCallback  press;
   final Category category;
 
-  CategoryCard(this.category, {this.press});
+  CategoryCard(this.category, {required this.press});
 
   @override
   Widget build(BuildContext context) {

@@ -34,7 +34,7 @@ def keystoreProperties = new Properties()
    }
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion localProperties.getProperty('flutter.compileSdkVersion').toInteger()
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
@@ -43,9 +43,8 @@ android {
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "com.technowstack.portal_bontang"
-        minSdkVersion 19
-        compileSdkVersion 31
-        targetSdkVersion flutter.targetSdkVersion
+        minSdkVersion localProperties.getProperty('flutter.minSdkVersion').toInteger()
+        targetSdkVersion localProperties.getProperty('flutter.targetSdkVersion').toInteger()
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }

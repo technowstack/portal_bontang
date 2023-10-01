@@ -8,7 +8,7 @@ class ModalItem extends StatelessWidget {
   String name;
   String url;
 
-  ModalItem({this.name, this.url});
+  ModalItem({required this.name, required this.url});
 
   @override
   Widget build(BuildContext context) {

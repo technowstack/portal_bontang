@@ -7,7 +7,7 @@ class Category {
   String url;
   List<UrlList> urlList;
 
-  Category({this.id, this.title, this.imgUrl, this.url, this.urlList});
+  Category({required this.id, required this.title, required this.imgUrl, required this.url, required this.urlList});
 
   factory Category.fromJson(Map<String, dynamic> json) {
     var list = json['urlList'] as List;
@@ -29,7 +29,7 @@ class UrlList {
   String name;
   String url;
 
-  UrlList({this.id, this.name, this.url});
+  UrlList({required this.id, required this.name, required this.url});
 
   factory UrlList.fromJson(Map<String, dynamic> json) {
     return UrlList(id: json['id'], name: json['name'], url: json['url']);
